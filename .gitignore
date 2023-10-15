@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignoră fișierele mari
+Lab1SecondTry/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so
+Lab1SecondTry/Library/Bee/artifacts/Android/il2cppOutput/build/armeabi-v7a/libil2cpp.dbg.so
+Lab1SecondTry/Packages/com.ptc.vuforia.engine-10.18.4.tgz
+Lab1SecondTry/Library/ArtifactDB
